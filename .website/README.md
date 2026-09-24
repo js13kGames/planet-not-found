@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - survival
 post: https://web.archive.org/web/20231101234647/https://www.joseprio.com/blog/2020/09/15/js13k-2020-planet-not-found/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
